@@ -1,2 +1,2 @@
-# flonebook
-Description of building and flying the flone drone
+# DroneDoc
+Description of building and flying drones for the do-it-yourselfer.
